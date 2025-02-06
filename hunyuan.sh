@@ -41,6 +41,8 @@ NODES=(
     "https://github.com/Koushakur/ComfyUI-DenoiseChooser"
     "https://github.com/TTPlanetPig/Comfyui_TTP_Toolset"
 
+    "https://github.com/akatz-ai/ComfyUI-Depthflow-Nodes"
+
     # controlnet
     # "https://github.com/Fannovel16/comfyui_controlnet_aux"
     # "https://github.com/XLabs-AI/x-flux-comfyui"
