@@ -31,7 +31,7 @@ NODES=(
     "https://github.com/chrisgoringe/cg-use-everywhere"
     "https://github.com/Smirnov75/ComfyUI-mxToolkit"
 
-    # aio advanced workflow
+    # advanced workflow
     "https://github.com/theUpsider/ComfyUI-Logic"
     "https://github.com/JPS-GER/ComfyUI_JPS-Nodes"
     "https://github.com/alt-key-project/comfyui-dream-project"
@@ -40,6 +40,10 @@ NODES=(
     "https://github.com/11dogzi/Comfyui-ergouzi-Nodes"
     "https://github.com/Koushakur/ComfyUI-DenoiseChooser"
     "https://github.com/TTPlanetPig/Comfyui_TTP_Toolset"
+    "https://github.com/sipherxyz/comfyui-art-venture"
+    "https://github.com/giriss/comfy-image-saver"
+    "https://github.com/jamesWalker55/comfyui-various"
+    "https://github.com/M1kep/ComfyLiterals"
 
     "https://github.com/akatz-ai/ComfyUI-Depthflow-Nodes"
 
@@ -143,6 +147,10 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/1247277"
     "https://civitai.com/api/download/models/1231959"
     "https://civitai.com/api/download/models/1270439"
+    "https://civitai.com/api/download/models/1264232"
+    "https://civitai.com/api/download/models/1235742"
+    "https://civitai.com/api/download/models/1226842"
+    
 
     "https://civitai.com/api/download/models/1320868"
     "https://civitai.com/api/download/models/1300982"
