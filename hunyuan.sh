@@ -44,6 +44,7 @@ NODES=(
     "https://github.com/giriss/comfy-image-saver"
     "https://github.com/jamesWalker55/comfyui-various"
     "https://github.com/M1kep/ComfyLiterals"
+    "https://github.com/kijai/ComfyUI-KJNodes"
 
     "https://github.com/akatz-ai/ComfyUI-Depthflow-Nodes"
 
