@@ -30,6 +30,7 @@ NODES=(
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/chrisgoringe/cg-use-everywhere"
     "https://github.com/Smirnov75/ComfyUI-mxToolkit"
+    "https://github.com/city96/ComfyUI-GGUF"
 
     # advanced workflow
     "https://github.com/theUpsider/ComfyUI-Logic"
@@ -76,6 +77,8 @@ NODES=(
     "https://github.com/Amorano/Jovimetrix"
     "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+    "https://github.com/DoctorDiffusion/ComfyUI-MediaMixer"
+    
     
     # "https://github.com/Lightricks/ComfyUI-LTXVideo"
     # "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved"
