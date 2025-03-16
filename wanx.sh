@@ -78,6 +78,9 @@ NODES=(
     "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation"
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/DoctorDiffusion/ComfyUI-MediaMixer"
+
+    # audio
+    "https://github.com/kijai/ComfyUI-MMAudio"
     
     
     # "https://github.com/Lightricks/ComfyUI-LTXVideo"
