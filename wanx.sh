@@ -89,6 +89,13 @@ NODES=(
     
 )
 
+MMAUDIO_MODELS=(
+    "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/apple_DFN5B-CLIP-ViT-H-14-384_fp16.safetensors"
+    "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_large_44k_v2_fp16.safetensors"
+    "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_synchformer_fp16.safetensors"
+    "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_vae_44k_fp16.safetensors"
+)
+
 CLIP_MODELS=(
     
 )
@@ -179,6 +186,9 @@ function provisioning_start() {
     provisioning_get_models \
         "/opt/ComfyUI/models/text_encoders" \
         "${TEXT_ENCODERS[@]}"
+    provisioning_get_models \
+        "/opt/ComfyUI/models/mmaudio" \
+        "${MMAUDIO_MODELS[@]}"
     provisioning_print_end
 }
 
