@@ -90,10 +90,10 @@ NODES=(
 )
 
 MMAUDIO_MODELS=(
-    "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/apple_DFN5B-CLIP-ViT-H-14-384_fp16.safetensors"
-    "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_large_44k_v2_fp16.safetensors"
-    "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_synchformer_fp16.safetensors"
-    "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_vae_44k_fp16.safetensors"
+    # "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/apple_DFN5B-CLIP-ViT-H-14-384_fp16.safetensors"
+    # "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_large_44k_v2_fp16.safetensors"
+    # "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_synchformer_fp16.safetensors"
+    # "https://huggingface.co/Kijai/MMAudio_safetensors/resolve/main/mmaudio_vae_44k_fp16.safetensors"
 )
 
 CLIP_MODELS=(
@@ -128,6 +128,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/1525363"
     "https://civitai.com/api/download/models/1470330"
     "https://civitai.com/api/download/models/1510362"
+    "https://civitai.com/api/download/models/1917993"
 )
 
 VAE_MODELS=(
