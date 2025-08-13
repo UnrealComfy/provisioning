@@ -7,7 +7,8 @@ echo "Downloading LightX2V"
 wget --content-disposition "https://civitai.com/api/download/models/2014449?token=$civitai_token"
 echo "Downlaod Wan22 Lightning"
 wget --content-disposition "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan22-Lightning/Wan2.2-Lightning_I2V-A14B-4steps-lora_LOW_fp16.safetensors"
-wget --content-disposition "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan22-Lightning/Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_HIGH_fp16.safetensors"
+wget --content-disposition "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan22-Lightning/Wan2.2-Lightning_I2V-A14B-4steps-lora_HIGH_fp16.safetensors"
+
 
 
 
